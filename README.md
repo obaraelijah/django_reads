@@ -8,3 +8,14 @@
 # My 3rd Party Package pics:
 1. [Django-Crum: Django Current Request User Middleware](https://github.com/ninemoreminutes/django-crum)
 
+# Topics and Resources:
+- [ ] Django Middlewares (builtins, third-party and custom middlewares)
+- [ ] Django Signals (try builtin methods first, then this [django-lifecycles]
+- [ ] Session management in Django
+- [ ] Project configuration management (dev/production configurations)
+- [ ] Django model managers, query performance hacks/techniques
+- [ ] Template tags and template filters (custom and third party)
+- [ ] Django email sending configuration
+- [ ] Django date-time filtering/date-times based query performing
+- [ ] Packages: [django-filters, django-extensions, crispy-forms, django-rest-framework]
+- [ ] Context Managers  (builtins, third-party and custom middlewares)

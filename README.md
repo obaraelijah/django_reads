@@ -37,3 +37,4 @@
 - [ ] [Django-oscar](https://github.com/django-oscar/django-oscar)
 - [ ] [Shuup](https://github.com/shuup/shuup)
 - [ ] [Saleor](https://github.com/saleor/saleor)
+- [ ] Read through [Awesome-Django](https://github.com/wsvincent/awesome-django) repository

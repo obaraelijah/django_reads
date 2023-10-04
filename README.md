@@ -19,3 +19,21 @@
 - [ ] Django date-time filtering/date-times based query performing
 - [ ] Packages: [django-filters, django-extensions, crispy-forms, django-rest-framework]
 - [ ] Context Managers  (builtins, third-party and custom middlewares)
+
+# Even more topics:
+- [ ] Custom context manager
+- [ ] Caching and Task management, Scheduling
+- [ ] Custom management commands, faker (fake data generating)
+- [ ] Docker, Load-testing, Unit testing, Integration and functional testing
+- [ ] Batching/Multiprocessing/Multithreading
+- [ ] Cronjobs, Notifications, Messaging
+
+# Open-source projects to study or learn:
+- [ ] [Django-CMS](https://github.com/django-cms/django-cms)
+- [ ] [Wagtail CMS](https://github.com/wagtail/wagtail/)
+- [ ] [Django Allauth](https://github.com/pennersr/django-allauth/)
+- [ ] [Django-Organization](https://github.com/bennylope/django-organizations/)
+- [ ] [Django-shop](https://github.com/awesto/django-shop)
+- [ ] [Django-oscar](https://github.com/django-oscar/django-oscar)
+- [ ] [Shuup](https://github.com/shuup/shuup)
+- [ ] [Saleor](https://github.com/saleor/saleor)
